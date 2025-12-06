@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.whole_foods {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.custom_footer {
+  background-color: #1385d6;
+  color: white;
+}
